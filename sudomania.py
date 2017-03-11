@@ -4,7 +4,6 @@ Titulo: sudomania.py
 Descripcion: Este Programa es uno de los clasicos juegos de todos los tiempos, un Sudoku.
 
 Autores: Miguel C. Canedo R. 13-10214
-	 Jesus R. Camacho R. 11-11393
 
 Ultima Actualizacion: 01/04/16
 """
